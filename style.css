@@ -1,10 +1,10 @@
 .heading {
     background-color: black;
     text-align: center;
-    align-content: space-around
-    min-width: 700px;
+    align-content: space-around min-width: 700px;
     height: 100px;
 }
+
 h1 {
     font-family: 'Lora';
     color: #F4F4F9;
@@ -12,36 +12,42 @@ h1 {
     padding-bottom: 20px;
     text-align: center;
 }
+
 h3 {
     font-family: 'Lora';
     font-size: 18px;
     color: #2F4550;
     text-align: left;
 }
-p{
+
+p {
     font-family: 'Merriweather';
     color: #F4F4F9;
-    background-color:#586F7C;
+    background-color: #586F7C;
     position: relative;
 
 }
-.title{
+
+.title {
     text-align: center;
     padding: inherit;
 }
-.data{
+
+.data {
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
     width: 300px;
 }
-h3 {
-    
-}
+
+h3 {}
+
 div {
     align-content: center;
 }
-.btn{
+
+.btn {
     color: #586F7C
 }
-.heading{
+
+.heading {
     align-content: center;
 }
